@@ -1,4 +1,4 @@
-# LifeSync
+# ThreatTracker
 
 - [Türkçe(TR)](#türkçe)
 - [English(EN)](#english)
